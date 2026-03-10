@@ -1,0 +1,12 @@
+{
+  "backup_id": "c28c1484-251f-4934-a8dd-72b34b1dc8d5",
+  "checksum": "fd40a77d4d3f516dd14c8dfede041bdeb4aabb1f709fcc44d6f96367466386a9",
+  "created_at": "2026-03-07T20:48:30.728119+00:00",
+  "data": {
+    "vehicles": [
+      "1987 Corvette Z52"
+    ]
+  },
+  "source_app": "CarLog",
+  "user_id": "user-123"
+}
